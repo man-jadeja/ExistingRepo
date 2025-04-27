@@ -2,5 +2,9 @@
 This is my branch main_2 data (change in main branch).
 =======
 This is my branch main_2 data.
+<<<<<<< HEAD
 This change is from main_2 branch.
+>>>>>>> main_2
+=======
+This change is from main_2 branch(Change From Main_2).
 >>>>>>> main_2
