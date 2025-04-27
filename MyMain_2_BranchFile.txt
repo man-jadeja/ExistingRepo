@@ -1,2 +1,4 @@
 This is my branch main_2 data (change in main branch).
+This is my line 2
+This is my change from main_2 branch.
 This is the data that i have added from main branch.
